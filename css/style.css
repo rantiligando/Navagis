@@ -1,0 +1,29 @@
+html,body {
+	height: 100%;
+	margin: 0;
+	padding: 0;
+	font-family: Roboto, Arial, sans-serif;
+}
+#map{
+	margin: 0;
+	padding: 0;
+	height: 100%;
+	width: 100%;
+	
+}
+#map img {
+	max-width: none !important;
+}
+.gm-style-iw {
+	width: 400px !important;
+	left: 0 !important;
+	top: 0 !important;
+}
+#content-image{
+	width: 115px !important;
+	float: left !important;
+}
+#content-text{
+	width: 285px !important;
+	float: right !important;
+}
